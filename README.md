@@ -1,5 +1,5 @@
-# Algo1234789
-## <AppShortDescription>  
+# Algo_123-789
+## a typical job interview question
 
 [![GitHub](https://img.shields.io/github/license/OlimilO1402/Algo_123-789?style=plastic)](https://github.com/OlimilO1402/Algo_123-789/blob/master/LICENSE) 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/OlimilO1402/Algo_123-789?style=plastic)](https://github.com/OlimilO1402/Algo_123-789/releases/latest)
