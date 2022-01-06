@@ -7,12 +7,7 @@
 [![Follow](https://img.shields.io/github/followers/OlimilO1402.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/OlimilO1402/Algo_123-789/watchers)
 
 Project started around december 2007.  
-<AppLongDescription>  
+Job interview question
 
-
-```vba
-Property Get Value()
-End Property
-```
 
 ![Algo123789 Image](Resources/Algo123789.png "Algo123789 Image")
