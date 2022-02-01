@@ -1,5 +1,5 @@
 Type=Exe
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\SysWow64\stdole2.tlb#OLE Automation
 Form=Forms\FMain.frm
 Module=MSystem; Modules\MSystem.bas
 Class=Ciphers; Classes\Ciphers.cls
@@ -14,7 +14,7 @@ HelpContextID="0"
 CompatibleMode="0"
 MajorVer=0
 MinorVer=9
-RevisionVer=1
+RevisionVer=2
 AutoIncrementVer=1
 ServerSupportFiles=0
 VersionCompanyName="MBO-Ing.com"
